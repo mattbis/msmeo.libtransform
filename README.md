@@ -5,3 +5,4 @@
 - allows subarg transform
 - allows transform of process into editor or gui
 - additional formats are enable via: prof: exotic
+- uses global internal version args
