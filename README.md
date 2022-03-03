@@ -1,5 +1,7 @@
 # msmeo.libtransform
 ..
+-- transform --editor
+-- transform --format
 - uses precompiled machines or live ones.. 
 - create obj - in arg flow - to output
 - allows freeform operand transform
